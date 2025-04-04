@@ -2,7 +2,7 @@
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=deebran)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on a portfolio website using Expo and tailwindcss.
+🔭 I’m currently working on a portfolio website using Expo and tailwindcss. (and updating this README :))
 <!--
 **deebran/deebran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
