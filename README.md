@@ -1,7 +1,8 @@
 ## Hi there, I'm Brian! 👋
 
 <div id="header" align="center">
- <img src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p> </div>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenJkc3N3ZHpqcXVpbGR6c3JmajJidHQ0OXAyd2FteHRuaXljd2R3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+</div>
 
 <!-- [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=deebran)](https://github.com/anuraghazra/github-readme-stats) -->
 
