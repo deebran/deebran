@@ -8,6 +8,8 @@
 
 🔭 I’m currently working on a portfolio website using Expo and tailwindcss. (and updating this README :))
 
+![](https://komarev.com/ghpvc/?username=deebran)
+
 <!--
 **deebran/deebran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
